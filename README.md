@@ -105,11 +105,15 @@ streamlit run app.py
 Input: *Avatar*
 Output:
 
-* Guardians of the Galaxy
-* John Carter
-* Star Trek
-* Jupiter Ascending
-* Avengers
-
+* Aliens
+* Alien3
+* Star Trek Into Darkenss
+* Alien
+* Planent of the Apes
+* Mission to Mars
+* Silent Running
+* Moonraker
+* Gravity
+* Soildier
 ---
 
